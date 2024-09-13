@@ -1,6 +1,5 @@
-# Op Telegram File Renamer
-This is a very simple Telegram File Renamer Bot by [❖ 𝐖𝐃 𝐙𝐎𝐍𝐄 ❖ ™](https://t.me/).
-
+# Telegram File Renamer
+This is a very simple Telegram File Renamer Bot by
 
 [![Typing SVG](https://readme-
 
