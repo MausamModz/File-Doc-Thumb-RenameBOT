@@ -1,10 +1,6 @@
 # Telegram File Renamer
 This is a very simple Telegram File Renamer Bot
 
-[![Typing SVG](https://readme-
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm SudoR2spr</h2>
-
 ## 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬
 - [𝐢𝐧𝐟𝐨 ⎚](#info)
 - [𝐃𝐞𝐩𝐥𝐨𝐲 ⎚](##deployment-support)
