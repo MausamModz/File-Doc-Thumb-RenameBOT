@@ -72,15 +72,11 @@ broadcast - 🔔 admin only
  - Thanks To 𝐂𝐑𝐄𝐙𝐘𝐁𝐎𝐓𝐙 ❤️ Developer
  - Thanks To All Everyone In This Journey
 
+ - Fork the repo and edit as per your needs.
 
 -----
-## Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭]
-
-🦋 Last Edited on: 1/1/2024
-
-Fork the repo and edit as per your needs.
 
 ## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+[![GNU Affero General Public License 2.0](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL 2.0.](https://github.com/SudoR2spr/Op-File-Renamer-Bot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
