@@ -1,5 +1,5 @@
 # Telegram File Renamer
-This is a very simple Telegram File Renamer Bot by
+This is a very simple Telegram File Renamer Bot
 
 [![Typing SVG](https://readme-
 
